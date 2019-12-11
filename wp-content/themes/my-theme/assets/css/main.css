@@ -1,0 +1,58 @@
+* {
+  margin: auto;
+  padding: auto;
+}
+
+html {
+  font-size: 62.5%;
+  margin: auto;
+  padding: auto;
+}
+
+body {
+  color: #33333;
+  font-family: "Dosis";
+}
+.header {
+  background: #0d7619;
+}
+
+.section-1  {
+  background-image: url(../img/programme.png);
+  text-align: center;
+
+}
+
+.section-1 p {
+  font-size: 25px;
+}
+
+.section-1 h1 {
+  font-size: 35px;
+
+}
+.section-1 .titre_2 {
+  font-size: 35px;
+  color: #9acf64;
+}
+
+.section-1 a {
+  background-color: #0d7619;
+  text-decoration: none;
+  border: 1px solid black;
+  border-radius: 25px
+
+}
+
+.section-2 {
+  text-align: center;
+  background-color: #ffffff;
+}
+
+.section-3 {
+  background-image: url(../img/bandeau.jpg);
+  text-align: center;
+  width: 100pw;
+
+}
+}
